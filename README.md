@@ -1,2 +1,2 @@
-# VRBasics1.1
+# VRBasicsAmador
 Creating a repo for my game. 
